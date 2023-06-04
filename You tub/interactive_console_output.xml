@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.10.7 on win32)" generated="20230603 22:34:09.414" rpa="false" schemaversion="3">
+<suite id="s1" name="Robot Interactive Console" source="c:\Users\GEORGE\.vscode\extensions\robocorp.robotframework-lsp-1.10.1\src\robotframework_ls\vendored\robotframework_interactive\robot_interactive_console.robot">
+<test id="s1-t1" name="Default Task/Test" line="5">
+<kw name="Interpreter Main Loop" library="MainLoop">
+<kw name="Dado que eu acesso o site do you tub">
+<msg timestamp="20230603 22:34:11.803" level="FAIL">No keyword with name 'Dado que eu acesso o site do you tub' found.</msg>
+<status status="FAIL" starttime="20230603 22:34:11.803" endtime="20230603 22:34:11.803"/>
+</kw>
+<kw name="Qaundo digito algo no campo de busca">
+<status status="NOT RUN" starttime="20230603 22:34:11.808" endtime="20230603 22:34:11.808"/>
+</kw>
+<kw name="E clico em buscar">
+<status status="NOT RUN" starttime="20230603 22:34:11.813" endtime="20230603 22:34:11.814"/>
+</kw>
+<kw name="Entao o resultado sera buscado">
+<status status="NOT RUN" starttime="20230603 22:34:11.818" endtime="20230603 22:34:11.818"/>
+</kw>
+<status status="PASS" starttime="20230603 22:34:09.572" endtime="20230603 22:34:13.959"/>
+</kw>
+<status status="PASS" starttime="20230603 22:34:09.570" endtime="20230603 22:34:13.959"/>
+</test>
+<status status="PASS" starttime="20230603 22:34:09.419" endtime="20230603 22:34:13.961"/>
+</suite>
+<statistics>
+<total>
+<stat pass="1" fail="0" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="1" fail="0" skip="0" id="s1" name="Robot Interactive Console">Robot Interactive Console</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
